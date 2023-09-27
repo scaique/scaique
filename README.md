@@ -1,6 +1,7 @@
 # Meu perfil
 
-**Introdução**<br>
+**Introdução**
+
 Meu nome é Sergio Caique e sou um estudante na [Faculdade Impacta](https://www.impacta.edu.br/) e na [DIO](https://web.dio.me/home) em busca de uma oprtunidade de emprego como desenvolvedor backend.
 
 **Conhecimentos**
