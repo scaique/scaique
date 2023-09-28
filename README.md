@@ -14,27 +14,40 @@ Meu nome é Sergio Caique e sou um estudante na [Faculdade Impacta](https://www.
 **Cursos Complementares e Formações**
 
 **- Faculdade**
-* [Desenvolvimento Web](https://github.com/bluee-bluue/Faculdade_DevWeb)
-* [Programação Orientada a Objetos com Python](https://github.com/bluee-bluue/Faculdade_PythonPOO)
+* Desenvolvimento Web
+    * [Repositório](https://github.com/bluee-bluue/Faculdade_DevWeb)
+* Programação Orientada a Objetos com Python
+    * [Repositório](https://github.com/bluee-bluue/Faculdade_PythonPOO)
 
 **- DIO**
-* [Versionamento de Código com Git](https://github.com/bluee-bluue/VersionamentoDeCodigoGit-DIO)
-* [.NET Developer](https://github.com/bluee-bluue/NET_DIO_Desafios)
-* [HTML Developer](https://github.com/bluee-bluue/HTML_DIO_Desafios)
-* [Bootcamp Potência Tech powered by iFood: Ciência de Dados com Python](https://github.com/bluee-bluue/PotenciaTechPython_iFood)
-* [Santander Bootcamp 2023 - Backend Java](https://github.com/bluee-bluue/BackendJava_Santander)
+* Versionamento de Código com Git
+    * [Repositório](https://github.com/bluee-bluue/VersionamentoDeCodigoGit-DIO)
+* .NET Developer
+    * [Repositório](https://github.com/bluee-bluue/NET_DIO_Desafios)
+* HTML Developer
+    * [Repositório](https://github.com/bluee-bluue/HTML_DIO_Desafios)
+* Bootcamp Potência Tech powered by iFood: Ciência de Dados com Python
+    * [Repositório](https://github.com/bluee-bluue/PotenciaTechPython_iFood)
+* Santander Bootcamp 2023 - Backend Java
+    * [Repositório](https://github.com/bluee-bluue/BackendJava_Santander)
 
 **- Intensivos**
-* [Intensivão de Python](https://github.com/bluee-bluue/IntensivaoPython)
-* [Intensivão de JavaScript](https://github.com/bluee-bluue/IntensivaoJavaScript)
-* [Mergulho Java](https://github.com/bluee-bluue/MergulhoJava)
+* Intensivão de Python
+    * [Repositório](https://github.com/bluee-bluue/IntensivaoPython)
+* Intensivão de JavaScript
+    * [Repositório](https://github.com/bluee-bluue/IntensivaoJavaScript)
+    * [Projeto no GitHub Pages](https://bluee-bluue.github.io/IntensivaoJavaScript/)
+* Mergulho Java
+    * [Repositório](https://github.com/bluee-bluue/MergulhoJava)
 
 **- Pessoais**
-* [Python](https://github.com/bluee-bluue/Python)
+* Python
+    * [Repositório](https://github.com/bluee-bluue/Python)
 
 <br>
 
-**Jogo - Confront Space Mobile**
-* [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile)
-* [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906)
-* [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile)
+**Jogos**
+* Confront Space Mobile (Peojeto pessoal desenvolvido em 2020)
+    * [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile)
+    * [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906)
+    * [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile)
