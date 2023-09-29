@@ -33,7 +33,7 @@ Meu nome é Sergio Caique e sou um estudante na [Faculdade Impacta](https://www.
 | Nome | Repositório | GitHub Pages |
 |-----------|--------------|-------|
 | Intensivão de Python | [Repositório](https://github.com/bluee-bluue/IntensivaoPython) | |
-| Intensivão de JavaScript | [Repositório](https://github.com/bluee-bluue/IntensivaoJavaScript) | [Projeto no GitHub Pages](https://bluee-bluue.github.io/IntensivaoJavaScript/) |
+| Intensivão de JavaScript | [Repositório](https://github.com/bluee-bluue/IntensivaoJavaScript) | [GitHub Pages](https://bluee-bluue.github.io/IntensivaoJavaScript/) |
 | Mergulho Java | [Repositório](https://github.com/bluee-bluue/MergulhoJava) | |
 
 ### Pessoais
