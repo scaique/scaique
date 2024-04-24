@@ -1,49 +1,40 @@
-**Introdução**
+`Olá, meu nome é Caique 👋`
+Sou um estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/) em busca de uma oprtunidade para desenvolver minhas habilidades como backend.
 
-Meu nome é Sergio Caique e sou um estudante na [Faculdade Impacta](https://www.impacta.edu.br/) e na [DIO](https://web.dio.me/home) em busca de uma oprtunidade de emprego como desenvolvedor backend.
+`📱 Redes`
+
+<p>
+  <a href="https://www.linkedin.com/in/sergio-caique-da-silva/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width='25'/>
+  </a>
+  <a href="https://github.com/bluee-bluue">
+    <img src="https://skillicons.dev/icons?i=github" width='25'/>
+  </a>
+  <a href="https://instagram.com/bluee-bluue">
+    <img src="https://skillicons.dev/icons?i=instagram" width='25'/>
+  </a>
+</p>
+
+`🔗 Links`
+
+- Blog: [indiebluegames.blogspot.com](https://indiebluegames.blogspot.com/)
+- GameJolt: [gamejolt.com](https://gamejolt.com/@blu3_g4m3s)
+- Itch.io: [Itch.io](https://blue-games-oficial.itch.io/)
+- YouTube: [blue games](https://www.youtube.com/channel/UC7RBW1cUeQ_0JoPA5qVA50w)
 
 **Conhecimentos:**
 * Linguagens de programação: Python, Java, C#
 * Frameworks: Flask, .NET
 * Ferramentas: Git, GitHub, Visual Studio Code, IntelliJ IDEA, PyCharm
 
-<br>
+`⚙️ Skills`
 
-## Cursos Complementares e Formações
+<p>
+    <img src="https://skillicons.dev/icons?i=python,flask,postman,git,github,vscode,docker,pycharm,html,css,java,kotlin,androidstudio,dart,flutter,net,javascript,spring,mysql,blender,unity,unrealengine,gamemakerstudio" style="width:27rem;"/>
+</p>
 
-### Faculdade
-
-| Nome | Repositório |
-|-----------|--------------|
-| Desenvolvimento Web | [Repositório](https://github.com/bluee-bluue/Faculdade_DevWeb) |
-| Programação Orientada a Objetos com Python | [Repositório](https://github.com/bluee-bluue/Faculdade_PythonPOO) |
-
-### DIO
-
-| Nome | Repositório |
-|-----------|--------------|
-| Versionamento de Código com Git | [Repositório](https://github.com/bluee-bluue/VersionamentoDeCodigoGit-DIO) |
-| .NET Developer | [Repositório](https://github.com/bluee-bluue/NET_DIO_Desafios) |
-| HTML Developer | [Repositório](https://github.com/bluee-bluue/HTML_DIO_Desafios) |
-| Bootcamp Potência Tech powered by iFood: Ciência de Dados com Python | [Repositório](https://github.com/bluee-bluue/PotenciaTechPython_iFood) |
-| Santander Bootcamp 2023 - Backend Java | [Repositório](https://github.com/bluee-bluue/BackendJava_Santander) |
-
-### Intensivos
-
-| Nome | Repositório | GitHub Pages |
-|-----------|--------------|-------|
-| Intensivão de Python | [Repositório](https://github.com/bluee-bluue/IntensivaoPython) | |
-| Intensivão de JavaScript | [Repositório](https://github.com/bluee-bluue/IntensivaoJavaScript) | [GitHub Pages](https://bluee-bluue.github.io/IntensivaoJavaScript/) |
-| Mergulho Java | [Repositório](https://github.com/bluee-bluue/MergulhoJava) | |
-
-### Pessoais
-
-| Nome | Repositório |
-|-----------|--------------|
-| Python | [Repositório](https://github.com/bluee-bluue/Python) |
-
-### Jogos
+`🎮 Jogo (Projeto Pessoal)`
 
 | Nome | Google Play | GameJolt | Itch.io |
 |-----------|---------|----------|---------|
-| Confront Space Mobile (Projeto pessoal desenvolvido em 2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) | [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) | [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
+| Confront Space Mobile (Desenvolvido em 2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) | [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) | [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
