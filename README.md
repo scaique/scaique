@@ -22,11 +22,6 @@
 - Itch.io: [Itch.io](https://blue-games-oficial.itch.io/)
 - YouTube: [blue games](https://www.youtube.com/channel/UC7RBW1cUeQ_0JoPA5qVA50w)
 
-**Conhecimentos:**
-* Linguagens de programação: Python, Java, C#
-* Frameworks: Flask, .NET
-* Ferramentas: Git, GitHub, Visual Studio Code, IntelliJ IDEA, PyCharm
-
 `⚙️ Skills`
 
 <p>
