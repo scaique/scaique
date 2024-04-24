@@ -30,7 +30,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Impacta
 
 `⚙️ Skills`
 <p>
-    <img src="https://skillicons.dev/icons?i=python,flask,postman,git,github,vscode,docker,pycharm,html,css,java,kotlin,androidstudio,dart,flutter,net,javascript,spring,mysql,blender,unity,unrealengine,gamemakerstudio" style="width:500px;"/>
+    <img src="https://skillicons.dev/icons?i=python,flask,postman,git,github,vscode,docker,pycharm,html,css,java,kotlin,androidstudio,dart,flutter,net,javascript,spring,mysql,blender,unity,unrealengine,gamemakerstudio" style="width:530px;"/>
 </p>
 <br>
 
