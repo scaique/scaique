@@ -10,7 +10,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Impacta
   <a href="https://github.com/bluee-bluue">
     <img src="https://skillicons.dev/icons?i=github" width='25'/>
   </a>
-  <a href="https://instagram.com/bluee-bluue">
+  <a href="https://instagram.com/bluee_bluue">
     <img src="https://skillicons.dev/icons?i=instagram" width='25'/>
   </a>
 </p>
