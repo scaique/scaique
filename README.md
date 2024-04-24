@@ -29,6 +29,17 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Impacta
 </p>
 <br>
 
+`📈 Status`
+<p align="left">
+ <img
+  className="mb-2 embed-responsive"
+  height="160em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluee-bluue&layout=compact&title_color=cdd9e5&icon_color=cdd9e5&text_color=cdd9e5&bg_color=22272e&hide_border=true"
+  alt="githubstats"
+  />
+</p>
+<br>
+
 `🎮 Jogo (Projeto Pessoal)`
 | Nome | Google Play | GameJolt | Itch.io |
 |-----------|---------|----------|---------|
