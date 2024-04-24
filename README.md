@@ -1,5 +1,5 @@
 `Olá, meu nome é Caique 👋`
-Sou um estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/) em busca de uma oprtunidade para desenvolver minhas habilidades como backend.
+<p>Sou um estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/) em busca de uma oprtunidade para desenvolver minhas habilidades como backend.</p>
 
 `📱 Redes`
 
