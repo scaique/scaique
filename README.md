@@ -1,5 +1,5 @@
-`Olá, meu nome é Caique 👋` <p></p>
-Sou um estudante de Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/) em busca de uma oprtunidade para desenvolver minhas habilidades como backend.
+`Olá, sou o Caique 👋` <p></p>
+Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/) determinado a encontrar oportunidades que me permitam aprimorar minhas habilidades como desenvolvedor backend.
 <br><br>
 
 `📱 Links`
