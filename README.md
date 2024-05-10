@@ -7,7 +7,7 @@ Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](ht
   <a href="https://www.linkedin.com/in/sergio-caique-da-silva/">
     <img src="https://skillicons.dev/icons?i=linkedin" style="width:30px;">
   </a>
-  <a href="https://github.com/bluee-bluue">
+  <a href="https://github.com/scaique">
     <img src="https://skillicons.dev/icons?i=github" style="width:30px;">
   </a>
   <a href="https://instagram.com/bluee_bluue">
@@ -36,7 +36,7 @@ Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](ht
 
 `📈 Status`
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluee-bluue&title_color=cdd9e5&text_color=cdd9e5&bg_color=22272e&hide_border=true" style="width:225px">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaique&title_color=cdd9e5&text_color=cdd9e5&bg_color=22272e&hide_border=true" style="width:225px">
 </p>
 <br>
 
