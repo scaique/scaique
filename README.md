@@ -26,12 +26,30 @@ Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](ht
 <br>
 
 `⚙️ Skills`
-<p>
-    <img src="https://skillicons.dev/icons?i=python,flask,postman,git,github,vscode,docker,pycharm,html,css,java" style="width:400px;">
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter,net,javascript,spring,mysql,blender,unity,gamemakerstudio" style="width:400px;">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=python">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=flask">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=postman">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=git">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=github">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=vscode">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=docker">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=pycharm">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=html">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=css">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=java">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=kotlin">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=androidstudio">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=dart">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=flutter">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=net">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=javascript">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=spring">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=mysql">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=blender">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=unity">
+  <img style="width: 30px; margin-right: 2%; margin-left: 0;" src="https://skillicons.dev/icons?i=gamemakerstudio">
+</div>
 <br>
 
 `📈 Status`
