@@ -52,7 +52,8 @@ Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](ht
 </p>
 <br>
 
-`🎮 Jogo (Projeto Pessoal)`
-| Nome | Google Play | GameJolt | Itch.io |
-|-----------|---------|----------|---------|
-| Confront Space Mobile (Desenvolvido em 2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) | [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) | [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
+`🛠️ Projetos Pessoais`
+| Nome | Links |
+|-----------|---------|
+| Confront Space Mobile (2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) - [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) - [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
+| Sistema de Registro e Controle de Vendas (2024) | [GitHub](https://github.com/scaique/aplicacao-vendas) |
