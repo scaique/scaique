@@ -10,9 +10,6 @@ Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](ht
   <a href="https://github.com/scaique">
     <img src="https://skillicons.dev/icons?i=github" style="width:30px;">
   </a>
-  <a href="https://instagram.com/bluee_bluue">
-    <img src="https://skillicons.dev/icons?i=instagram" style="width:30px;">
-  </a
   <a href="https://indiebluegames.blogspot.com/">
     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494538.png" style="width:30px;">
   </a>
