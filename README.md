@@ -45,7 +45,7 @@ Um graduando em Análise e Desenvolvimento de Sistemas, autodidata e criativo, d
 
 `📈 Status`
 <p align="left">
- <img src="" style="width:225px">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaique&title_color=cdd9e5&text_color=cdd9e5&bg_color=22272e&hide_border=true" style="width:225px">
 </p>
 <br>
 
