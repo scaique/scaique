@@ -1,5 +1,5 @@
 `Olá, sou o Caique 👋` <p></p>
-Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/) determinado a encontrar oportunidades que me permitam aprimorar minhas habilidades como desenvolvedor backend.
+Um graduando em Análise e Desenvolvimento de Sistemas, autodidata e criativo, determinado a encontrar oportunidades que me permitam aprimorar minhas habilidades como desenvolvedor backend. Desenvolvi projetos que aprimoraram minhas habilidades técnicas em desenvolvimento web e automação de processos.
 <br><br>
 
 `📱 Links`
@@ -49,7 +49,7 @@ Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](ht
 </p>
 <br>
 
-`🛠️ Projetos Pessoais`
+`🛠️ Projetos`
 | Nome | Links |
 |-----------|---------|
 | Confront Space Mobile (2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) - [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) - [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
