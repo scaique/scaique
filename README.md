@@ -54,3 +54,5 @@ Um graduando em Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](ht
 |-----------|---------|
 | Confront Space Mobile (2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) - [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) - [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
 | Sistema de Registro e Controle de Vendas (2024) | [GitHub](https://github.com/scaique/aplicacao-vendas) |
+| Unfollowers for Bluesky (2024) | [Site](https://bit.ly/unf-bsky) - [GitHub](https://github.com/scaique/unfollowers-bluesky) |
+| Video Downloader for Bluesky (2024) | [Site](https://bit.ly/video-bsky) - [GitHub](https://github.com/calebhphp/bsky-video-downloader) |
