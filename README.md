@@ -70,5 +70,5 @@
 | Nome | Links |
 |-----------|---------|
 | Confront Space Mobile (2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) - [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) - [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
-| Unfollowers for Bluesky (2024) | [Site](https://unfollowers.scaique.dev.br/) - [Portfólio](https://scaique.dev.br/unfollowers-for-bluesky) - [GitHub](https://github.com/scaique/unfollowers-bluesky) |
-| Lista de Desejos (2024) | [Portfólio](https://scaique.dev.br/lista-desejos) |
+| Unfollowers for Bluesky (2024) | [Site](https://unfollowers.scaique.dev.br/) - [+Infos](https://scaique.dev.br/unfollowers-for-bluesky) - [GitHub](https://github.com/scaique/unfollowers-bluesky) |
+| Lista de Desejos (2024) | [+Infos](https://scaique.dev.br/lista-desejos) |
