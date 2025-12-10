@@ -34,8 +34,8 @@
 <p><strong>Backend & Mobile</strong></p>
 <div align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </div>
 <br>
 <p><strong>Game Development</strong></p>
@@ -61,9 +61,8 @@
 `💼 Experiência Profissional`
 | 🏢 Empresa | 👨‍💻 Cargo | 📅 Período | 🔗 Links |
 |-----------|---------|-----------|-----------|
-| Galera Das Ondas | Desenvolvedor Mobile | jun/2025 - Atualmente | Em desenvolvimento |
-| XequeMateStudio | Desenvolvedor Fullstack | dez/2024 - abr/2025 | [Site](https://xequematestudio.com.br/) - [+Infos](https://scaique.tech/xequematestudio) |
-| Galera Das Ondas | Desenvolvedor Fullstack | out/2023 - jul/2024 | [GitHub](https://github.com/scaique/aplicacao-vendas) - [+Infos](https://scaique.tech/controle-registro) |
+| Galera Das Ondas | Desenvolvedor Mobile | jun/2025 - out/2025 | [+Infos](https://scaique.dev.br/galeradasondas) |
+| XequeMateStudio | Desenvolvedor Fullstack | dez/2024 - abr/2025 | [Site](https://xequematestudio.com.br/) - [+Infos](https://scaique.dev.br/xequematestudio) |
 
 <br><br>
 
@@ -71,5 +70,5 @@
 | Nome | Links |
 |-----------|---------|
 | Confront Space Mobile (2020) | [Google Play](https://play.google.com/store/apps/details?id=com.BlueGames.ConfrontSpaceMobile) - [GameJolt](https://gamejolt.com/games/confrontspacemobile/500906) - [Itch.io](https://blue-games-oficial.itch.io/confront-space-mobile) |
-| Unfollowers for Bluesky (2024) | [Site](https://unfollowers.scaique.tech/) - [Portfólio](https://scaique.tech/unfollowers-for-bluesky) - [GitHub](https://github.com/scaique/unfollowers-bluesky) |
-| Lista de Desejos (2024) | [Portfólio](https://scaique.tech/lista-desejos) |
+| Unfollowers for Bluesky (2024) | [Site](https://unfollowers.scaique.dev.br/) - [Portfólio](https://scaique.dev.br/unfollowers-for-bluesky) - [GitHub](https://github.com/scaique/unfollowers-bluesky) |
+| Lista de Desejos (2024) | [Portfólio](https://scaique.dev.br/lista-desejos) |
